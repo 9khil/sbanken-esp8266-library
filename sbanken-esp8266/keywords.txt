@@ -1,0 +1,23 @@
+###################################
+# Syntax Coloring Map For Sbanken
+###################################
+
+###################################
+# Datatypes (KEYWORD1)
+###################################
+
+Sbanken	KEYWORD1
+
+###################################
+# Methods and Functions (KEYWORD2)
+###################################
+
+getAccounts	KEYWORD2
+getAccount	KEYWORD2
+getTransactions KEYWORD2
+
+
+###################################
+# Constants (LITERAL1)
+###################################
+
